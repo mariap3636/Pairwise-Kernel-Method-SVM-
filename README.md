@@ -1,5 +1,5 @@
 # Pairwise Kernel Method
-##Discription
+## Discription
 [Protein–ligand interaction prediction: an improved chemogenomics approach](http://www.ncbi.nlm.nih.gov/pubmed/18676415) 
 
 にて提案されたPairwise Kernel Methodを用いたCompound-Protein Interaction予測手法を実装しました．分類器にはSupport Vector Machineを使っています．ここではデータセットとして九州大学 山西芳裕准教授が以下の論文で作成したものを使用しました．
@@ -34,7 +34,7 @@ Furthermore, the extension of networkx's link prediction argorithms is provided 
 
 If you want to know these definitions, refer to [this paper](http://arxiv.org/abs/1010.0725). Input and Output forms conform to networkx's link prediction argorithms.
 
-##Usage
+## Usage
 実行に際して，以下のpythonライブラリが必要です．
 
 (Required python libraries)
